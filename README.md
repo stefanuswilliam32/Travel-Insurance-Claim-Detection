@@ -53,7 +53,7 @@ Type 2 error : False Negative
         - Setiap klaim yang tidak diprediksi akan mengurangi margin keuntungan perusahaan, terutama jika pelanggan tersebut adalah bagian dari segmen yang dianggap "aman" dan tidak dialokasikan premi risiko.
 
 
-![image](https://github.com/user-attachments/assets/d8290544-5eb7-495a-a24d-9e2028817a2e)
+
 
 **Setelah dilakukan data cleaning :**
 - Jumlah data : 44328 -> 39324 (-11.2%) = Hal ini dikarenakan adanya penghapusan data duplikat sebesar 4667 data (11.2%), agar tidak terjadi bias data saat proses pembelajaran model machine learning.
